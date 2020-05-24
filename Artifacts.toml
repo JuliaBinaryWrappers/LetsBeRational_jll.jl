@@ -1,0 +1,50 @@
+[[LetsBeRational]]
+arch = "x86_64"
+git-tree-sha1 = "46e2e6dc4dec63f7af9d4afd3d7c8881003e623b"
+libc = "musl"
+os = "linux"
+
+    [[LetsBeRational.download]]
+    sha256 = "088b12b53b4a61cc726c46c0f8f8576def478f30707f4eed2f25de30e470b626"
+    url = "https://github.com/JuliaBinaryWrappers/LetsBeRational_jll.jl/releases/download/LetsBeRational-v1.0.0+0/LetsBeRational.v1.0.0.x86_64-linux-musl.tar.gz"
+[[LetsBeRational]]
+arch = "x86_64"
+git-tree-sha1 = "694d92cd46acb03a858a6de75a9a769f264c5036"
+os = "freebsd"
+
+    [[LetsBeRational.download]]
+    sha256 = "3f249eacb740294da7e25f5a539fad767bd529d62db14c556da15e32432fbb69"
+    url = "https://github.com/JuliaBinaryWrappers/LetsBeRational_jll.jl/releases/download/LetsBeRational-v1.0.0+0/LetsBeRational.v1.0.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[LetsBeRational]]
+arch = "x86_64"
+git-tree-sha1 = "ec1608c740f774ca4a76424c4283c3570a93a554"
+os = "windows"
+
+    [[LetsBeRational.download]]
+    sha256 = "34024922609a3d49b085b8ad2eadf9d763336e6dca73cba5bbd7863a64ad651a"
+    url = "https://github.com/JuliaBinaryWrappers/LetsBeRational_jll.jl/releases/download/LetsBeRational-v1.0.0+0/LetsBeRational.v1.0.0.x86_64-w64-mingw32.tar.gz"
+[[LetsBeRational]]
+arch = "x86_64"
+git-tree-sha1 = "f978198407d5eb9fafd7a306d1e852d0133ecbcc"
+libc = "glibc"
+os = "linux"
+
+    [[LetsBeRational.download]]
+    sha256 = "adb561687c662203b9856d22d295ca98939416a62ba68f633a18b093818b07f6"
+    url = "https://github.com/JuliaBinaryWrappers/LetsBeRational_jll.jl/releases/download/LetsBeRational-v1.0.0+0/LetsBeRational.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[LetsBeRational]]
+arch = "x86_64"
+git-tree-sha1 = "1143caaa3663a813eb42d317a073a06d4ec4fd1c"
+os = "macos"
+
+    [[LetsBeRational.download]]
+    sha256 = "a265c59b8ef8539d536e0518e2bdf4c3a8b071ac5c2eec57e74d8e826d0d0a3e"
+    url = "https://github.com/JuliaBinaryWrappers/LetsBeRational_jll.jl/releases/download/LetsBeRational-v1.0.0+0/LetsBeRational.v1.0.0.x86_64-apple-darwin14.tar.gz"
+[[LetsBeRational]]
+arch = "i686"
+git-tree-sha1 = "621c2e42de556d1354a52904724a18f708cbc680"
+os = "windows"
+
+    [[LetsBeRational.download]]
+    sha256 = "3f6a426dd1ad6fb5b32528fa6fd7df9951230c6fec686f905adf5576fb1167c9"
+    url = "https://github.com/JuliaBinaryWrappers/LetsBeRational_jll.jl/releases/download/LetsBeRational-v1.0.0+0/LetsBeRational.v1.0.0.i686-w64-mingw32.tar.gz"
